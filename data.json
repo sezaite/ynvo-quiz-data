@@ -7,22 +7,22 @@
            {
                "id": 1,
                "answer": "Summer",
-               "selected": false
+               "isSelected": false
            },
            {
                 "id": 2,
                 "answer": "Spring",
-                "selected": false
+                "isSelected": false
             },
             {
                 "id": 3,
                 "answer": "Winter",
-                "selected": false
+                "isSelected": false
             },
             {
                 "id": 4,
                 "answer": "Autumn",
-                "selected": false
+                "isSelected": false
             }
        ]
     },
@@ -34,22 +34,22 @@
             {
                 "id": 1,
                 "answer": "Morning",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 2,
                  "answer": "Afternoon",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 3,
                  "answer": "Evening",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 4,
                  "answer": "Night",
-                 "selected": false
+                 "isSelected": false
              }
         ]
      },
@@ -61,22 +61,22 @@
             {
                 "id": 1,
                 "answer": "Introvert",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 2,
                  "answer": "Extrovert",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 3,
                  "answer": "Ambivert / I don't know",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 4,
                  "answer": "Night",
-                 "selected": false
+                 "isSelected": false
              }
         ]
      },
@@ -89,32 +89,32 @@
             {
                 "id": 1,
                 "answer": "Introvert",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 2,
                  "answer": "Extrovert",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 3,
                  "answer": "Ambivert / I don't know",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 4,
                  "answer": "Night",
-                 "selected": false
+                 "isSelected": false
              },
             {
                  "id": 5,
                  "answer": "Intelligency",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 6,
                  "answer": "I can do both!",
-                 "selected": false
+                 "isSelected": false
              },
         ]
      },
@@ -126,17 +126,17 @@
             {
                 "id": 1,
                 "answer": "Creative",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 2,
                  "answer": "Practical",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 3,
                  "answer": "I can do both!",
-                 "selected": false
+                 "isSelected": false
              },
              
         ]
@@ -150,62 +150,62 @@
             {
                 "id": 1,
                 "answer": "Kindness",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 2,
                  "answer": "Intelligency",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 3,
                  "answer": "I can do both!",
-                 "selected": false
+                 "isSelected": false
              },
              {
                 "id": 4,
                 "answer": "Kindness",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 5,
                  "answer": "Intelligency",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 6,
                  "answer": "I can do both!",
-                 "selected": false
+                 "isSelected": false
              },
              {
                 "id": 7,
                 "answer": "Intelligency",
-                "selected": false
+                "isSelected": false
             },
             {
                 "id": 8,
                 "answer": "I can do both!",
-                "selected": false
+                "isSelected": false
             },
             {
                 "id": 9,
                 "answer": "I can do both!",
-                "selected": false
+                "isSelected": false
             },
             {
                "id": 10,
                "answer": "Kindness",
-               "selected": false
+               "isSelected": false
            },
            {
                 "id": 11,
                 "answer": "Intelligency",
-                "selected": false
+                "isSelected": false
             },
             {
                 "id": 12,
                 "answer": "I can do both!",
-                "selected": false
+                "isSelected": false
             },
              
         ]
@@ -218,17 +218,17 @@
             {
                 "id": 1,
                 "answer": "Plan and organize things thoroughly",
-                "selected": false
+                "isSelected": false
             },
             {
                  "id": 2,
                  "answer": "Improvise and act spontanously!",
-                 "selected": false
+                 "isSelected": false
              },
              {
                  "id": 3,
                  "answer": "I can do both!",
-                 "selected": false
+                 "isSelected": false
              }
              
         ]
