@@ -1,237 +1,233 @@
 [
-   {
-       "id": 1,
-       "type": "radio",
-       "question": "I am waiting for...",
-       "answers": [
-           {
-               "id": 1,
-               "answer": "Summer",
-               "isSelected": false
-           },
-           {
-                "id": 2,
-                "answer": "Spring",
-                "isSelected": false
-            },
-            {
-                "id": 3,
-                "answer": "Winter",
-                "isSelected": false
-            },
-            {
-                "id": 4,
-                "answer": "Autumn",
-                "isSelected": false
-            }
+    {
+       "id":1,
+       "type":"radio",
+       "question":"I am waiting for...",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Summer",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Spring",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"Winter",
+             "isSelected":false
+          },
+          {
+             "id":4,
+             "answer":"Autumn",
+             "isSelected":false
+          }
        ]
     },
     {
-        "id": 2,
-        "type": "radio",
-        "question": "My favorite time of a day is...",
-        "answers": [
-            {
-                "id": 1,
-                "answer": "Morning",
-                "isSelected": false
-            },
-            {
-                 "id": 2,
-                 "answer": "Afternoon",
-                 "isSelected": false
-             },
-             {
-                 "id": 3,
-                 "answer": "Evening",
-                 "isSelected": false
-             },
-             {
-                 "id": 4,
-                 "answer": "Night",
-                 "isSelected": false
-             }
-        ]
-     },
-     {
-        "id": 3,
-        "type": "radio",
-        "question": "I am",
-        "answers": [
-            {
-                "id": 1,
-                "answer": "Introvert",
-                "isSelected": false
-            },
-            {
-                 "id": 2,
-                 "answer": "Extrovert",
-                 "isSelected": false
-             },
-             {
-                 "id": 3,
-                 "answer": "Ambivert / I don't know",
-                 "isSelected": false
-             },
-             {
-                 "id": 4,
-                 "answer": "Night",
-                 "isSelected": false
-             }
-        ]
-     },
-     {
-        "id": 4,
-        "type": "checkbox",
-        "question": "I am",
-        "caption": "Pick a few",
-        "answers": [
-            {
-                "id": 1,
-                "answer": "Introvert",
-                "isSelected": false
-            },
-            {
-                 "id": 2,
-                 "answer": "Extrovert",
-                 "isSelected": false
-             },
-             {
-                 "id": 3,
-                 "answer": "Ambivert / I don't know",
-                 "isSelected": false
-             },
-             {
-                 "id": 4,
-                 "answer": "Night",
-                 "isSelected": false
-             },
-            {
-                 "id": 5,
-                 "answer": "Intelligency",
-                 "isSelected": false
-             },
-             {
-                 "id": 6,
-                 "answer": "I can do both!",
-                 "isSelected": false
-             },
-        ]
-     },
-     {
-        "id": 5,
-        "type": "radio",
-        "question": "I am more",
-        "answers": [
-            {
-                "id": 1,
-                "answer": "Creative",
-                "isSelected": false
-            },
-            {
-                 "id": 2,
-                 "answer": "Practical",
-                 "isSelected": false
-             },
-             {
-                 "id": 3,
-                 "answer": "I can do both!",
-                 "isSelected": false
-             },
-             
-        ]
-     },
-     {
-        "id": 6,
-        "type": "Checkbox",
-        "caption": "Pick a few",
-        "question": "My most prominent character traits are",
-        "answers": [
-            {
-                "id": 1,
-                "answer": "Kindness",
-                "isSelected": false
-            },
-            {
-                 "id": 2,
-                 "answer": "Intelligency",
-                 "isSelected": false
-             },
-             {
-                 "id": 3,
-                 "answer": "I can do both!",
-                 "isSelected": false
-             },
-             {
-                "id": 4,
-                "answer": "Kindness",
-                "isSelected": false
-            },
-            {
-                 "id": 5,
-                 "answer": "Intelligency",
-                 "isSelected": false
-             },
-             {
-                 "id": 6,
-                 "answer": "I can do both!",
-                 "isSelected": false
-             },
-             {
-                "id": 7,
-                "answer": "Intelligency",
-                "isSelected": false
-            },
-            {
-                "id": 8,
-                "answer": "I can do both!",
-                "isSelected": false
-            },
-            {
-                "id": 9,
-                "answer": "I can do both!",
-                "isSelected": false
-            },
-            {
-               "id": 10,
-               "answer": "Kindness",
-               "isSelected": false
-           },
-           {
-                "id": 11,
-                "answer": "Intelligency",
-                "isSelected": false
-            },
-            {
-                "id": 12,
-                "answer": "I can do both!",
-                "isSelected": false
-            },
-             
-        ]
-     },
-     {
-        "id": 7,
-        "type": "radio",
-        "question": "I prefer to",
-        "answers": [
-            {
-                "id": 1,
-                "answer": "Plan and organize things thoroughly",
-                "isSelected": false
-            },
-            {
-                 "id": 2,
-                 "answer": "Improvise and act spontanously!",
-                 "isSelected": false
-             },
-             {
-                 "id": 3,
-                 "answer": "I can do both!",
-                 "isSelected": false
-             }
-             
-        ]
-     }
-]
-
+       "id":2,
+       "type":"radio",
+       "question":"My favorite time of a day is...",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Morning",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Afternoon",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"Evening",
+             "isSelected":false
+          },
+          {
+             "id":4,
+             "answer":"Night",
+             "isSelected":false
+          }
+       ]
+    },
+    {
+       "id":3,
+       "type":"radio",
+       "question":"I am",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Introvert",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Extrovert",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"Ambivert / I don't know",
+             "isSelected":false
+          },
+          {
+             "id":4,
+             "answer":"Night",
+             "isSelected":false
+          }
+       ]
+    },
+    {
+       "id":4,
+       "type":"checkbox",
+       "question":"I am",
+       "caption":"Pick a few",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Introvert",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Extrovert",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"Ambivert / I don't know",
+             "isSelected":false
+          },
+          {
+             "id":4,
+             "answer":"Night",
+             "isSelected":false
+          },
+          {
+             "id":5,
+             "answer":"Intelligency",
+             "isSelected":false
+          },
+          {
+             "id":6,
+             "answer":"I can do both!",
+             "isSelected":false
+          }
+       ]
+    },
+    {
+       "id":5,
+       "type":"radio",
+       "question":"I am more",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Creative",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Practical",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"I can do both!",
+             "isSelected":false
+          }
+       ]
+    },
+    {
+       "id":6,
+       "type":"Checkbox",
+       "caption":"Pick a few",
+       "question":"My most prominent character traits are",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Kindness",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Intelligency",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"I can do both!",
+             "isSelected":false
+          },
+          {
+             "id":4,
+             "answer":"Kindness",
+             "isSelected":false
+          },
+          {
+             "id":5,
+             "answer":"Intelligency",
+             "isSelected":false
+          },
+          {
+             "id":6,
+             "answer":"I can do both!",
+             "isSelected":false
+          },
+          {
+             "id":7,
+             "answer":"Intelligency",
+             "isSelected":false
+          },
+          {
+             "id":8,
+             "answer":"I can do both!",
+             "isSelected":false
+          },
+          {
+             "id":9,
+             "answer":"I can do both!",
+             "isSelected":false
+          },
+          {
+             "id":10,
+             "answer":"Kindness",
+             "isSelected":false
+          },
+          {
+             "id":11,
+             "answer":"Intelligency",
+             "isSelected":false
+          },
+          {
+             "id":12,
+             "answer":"I can do both!",
+             "isSelected":false
+          }
+       ]
+    },
+    {
+       "id":7,
+       "type":"radio",
+       "question":"I prefer to",
+       "answers":[
+          {
+             "id":1,
+             "answer":"Plan and organize things thoroughly",
+             "isSelected":false
+          },
+          {
+             "id":2,
+             "answer":"Improvise and act spontanously!",
+             "isSelected":false
+          },
+          {
+             "id":3,
+             "answer":"I can do both!",
+             "isSelected":false
+          }
+       ]
+    }
+ ]
