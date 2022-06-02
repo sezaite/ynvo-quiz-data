@@ -73,49 +73,29 @@
              "answer":"Ambivert / I don't know",
              "isSelected":false
           },
-          {
-             "id":4,
-             "answer":"Night",
-             "isSelected":false
-          }
        ]
     },
     {
        "id":4,
-       "type":"checkbox",
-       "question":"I am",
+       "type":"Radio",
+       "question":"With my presence I would rather",
        "caption":"Pick a few",
        "answers":[
           {
              "id":1,
-             "answer":"Introvert",
+             "answer":"Make a statement",
              "isSelected":false
           },
           {
              "id":2,
-             "answer":"Extrovert",
+             "answer":"I want to blend in",
              "isSelected":false
           },
           {
              "id":3,
-             "answer":"Ambivert / I don't know",
+             "answer":"Depends on the day",
              "isSelected":false
           },
-          {
-             "id":4,
-             "answer":"Night",
-             "isSelected":false
-          },
-          {
-             "id":5,
-             "answer":"Intelligency",
-             "isSelected":false
-          },
-          {
-             "id":6,
-             "answer":"I can do both!",
-             "isSelected":false
-          }
        ]
     },
     {
@@ -158,54 +138,34 @@
           },
           {
              "id":3,
-             "answer":"I can do both!",
+             "answer":"Bravery",
              "isSelected":false
           },
           {
              "id":4,
-             "answer":"Kindness",
+             "answer":"Sense of style",
              "isSelected":false
           },
           {
              "id":5,
-             "answer":"Intelligency",
+             "answer":"Optimism",
              "isSelected":false
           },
           {
              "id":6,
-             "answer":"I can do both!",
+             "answer":"High energy",
              "isSelected":false
           },
           {
              "id":7,
-             "answer":"Intelligency",
+             "answer":"Empathy",
              "isSelected":false
           },
           {
              "id":8,
-             "answer":"I can do both!",
+             "answer":"Trustworthiness",
              "isSelected":false
           },
-          {
-             "id":9,
-             "answer":"I can do both!",
-             "isSelected":false
-          },
-          {
-             "id":10,
-             "answer":"Kindness",
-             "isSelected":false
-          },
-          {
-             "id":11,
-             "answer":"Intelligency",
-             "isSelected":false
-          },
-          {
-             "id":12,
-             "answer":"I can do both!",
-             "isSelected":false
-          }
        ]
     },
     {
